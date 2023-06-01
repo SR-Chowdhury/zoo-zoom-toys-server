@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Plush Dog Toy",
+      "image": "plush_dog_toy.jpg",
+      "price": 12.99,
+      "rating": 4.5,
+      "sellerName": "Pawsome Pets",
+      "sellerEmail": "pawsomepets@example.com",
+      "category": "dog",
+      "quantity": 10,
+      "details": "This adorable plush dog toy is made with soft, durable materials, perfect for hours of fun and cuddles with your furry friend."
+    },
+    {
+      "name": "Interactive Dog Toy",
+      "image": "interactive_dog_toy.jpg",
+      "price": 19.99,
+      "rating": 4.2,
+      "sellerName": "Smart Paws",
+      "sellerEmail": "smartpaws@example.com",
+      "category": "dog",
+      "quantity": 5,
+      "details": "Keep your dog entertained with this interactive toy that engages their senses and promotes mental stimulation and physical activity."
+    },
+    {
+      "name": "Tough Chew Toy",
+      "image": "tough_chew_toy.jpg",
+      "price": 14.99,
+      "rating": 4.0,
+      "sellerName": "Durable Dogs",
+      "sellerEmail": "durabledogs@example.com",
+      "category": "dog",
+      "quantity": 8,
+      "details": "Designed for strong chewers, this tough dog toy is made with durable materials that withstand aggressive chewing and promote dental health."
+    },
+    {
+      "name": "Squeaky Dog Toy",
+      "image": "squeaky_dog_toy.jpg",
+      "price": 9.99,
+      "rating": 4.8,
+      "sellerName": "Happy Tails",
+      "sellerEmail": "happytails@example.com",
+      "category": "dog",
+      "quantity": 12,
+      "details": "This squeaky dog toy provides endless entertainment for your pet, with an enticing sound that keeps them engaged and excited."
+    },
+    {
+      "name": "Dog Rope Toy",
+      "image": "dog_rope_toy.jpg",
+      "price": 17.99,
+      "rating": 4.1,
+      "sellerName": "Active Pups",
+      "sellerEmail": "activepups@example.com",
+      "category": "dog",
+      "quantity": 3,
+      "details": "This dog rope toy is perfect for interactive play and helps keep your dog's teeth clean and their jaws strong."
+    }
+  ]
+  

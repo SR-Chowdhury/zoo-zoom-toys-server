@@ -1,0 +1,58 @@
+[
+    {
+      "name": "T-Rex Dinosaur Toy",
+      "image": "t_rex_dinosaur_toy.jpg",
+      "price": 19.99,
+      "rating": 4.5,
+      "sellerName": "Dino World",
+      "sellerEmail": "dinoworld@example.com",
+      "category": "dinosaur",
+      "quantity": 10,
+      "details": "Bring the prehistoric world to life with this T-Rex dinosaur toy. It features realistic detailing and movable parts for interactive play."
+    },
+    {
+      "name": "Stegosaurus Plush Toy",
+      "image": "stegosaurus_plush_toy.jpg",
+      "price": 14.99,
+      "rating": 4.2,
+      "sellerName": "Cuddly Creatures",
+      "sellerEmail": "cuddlycreatures@example.com",
+      "category": "dinosaur",
+      "quantity": 5,
+      "details": "Cuddle up with this soft and huggable Stegosaurus plush toy. It's perfect for dino-loving kids of all ages."
+    },
+    {
+      "name": "Dinosaur Excavation Kit",
+      "image": "dinosaur_excavation_kit.jpg",
+      "price": 12.99,
+      "rating": 4.0,
+      "sellerName": "Dino Discoveries",
+      "sellerEmail": "dinodiscoveries@example.com",
+      "category": "dinosaur",
+      "quantity": 8,
+      "details": "Embark on a paleontological adventure with this dinosaur excavation kit. Dig, discover, and learn about ancient fossils and dinosaurs."
+    },
+    {
+      "name": "Dino Playset",
+      "image": "dino_playset.jpg",
+      "price": 24.99,
+      "rating": 4.8,
+      "sellerName": "Adventure Time Toys",
+      "sellerEmail": "adventuretimetoys@example.com",
+      "category": "dinosaur",
+      "quantity": 12,
+      "details": "Create your own Jurassic world with this dino playset. It includes multiple dinosaur figures, scenery, and accessories for imaginative play."
+    },
+    {
+      "name": "Triceratops Puzzle Toy",
+      "image": "triceratops_puzzle_toy.jpg",
+      "price": 9.99,
+      "rating": 4.1,
+      "sellerName": "Puzzle Planet",
+      "sellerEmail": "puzzleplanet@example.com",
+      "category": "dinosaur",
+      "quantity": 3,
+      "details": "Challenge your child's problem-solving skills with this triceratops puzzle toy. It features colorful pieces that fit together to create a dinosaur."
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Plush Cow Toy",
+      "image": "plush_cow_toy.jpg",
+      "price": 12.99,
+      "rating": 4.5,
+      "sellerName": "Farm Friends",
+      "sellerEmail": "farmfriends@example.com",
+      "category": "cow",
+      "quantity": 10,
+      "details": "This adorable plush cow toy is made with soft, huggable materials, perfect for cuddling and imaginative playtime on the farm."
+    },
+    {
+      "name": "Mooing Cow Toy",
+      "image": "mooing_cow_toy.jpg",
+      "price": 19.99,
+      "rating": 4.2,
+      "sellerName": "Moo Moo Toys",
+      "sellerEmail": "moomootoys@example.com",
+      "category": "cow",
+      "quantity": 5,
+      "details": "Squeeze this interactive cow toy to hear it moo! It's a delightful addition to your child's toy collection."
+    },
+    {
+      "name": "Cow Puzzle Toy",
+      "image": "cow_puzzle_toy.jpg",
+      "price": 14.99,
+      "rating": 4.0,
+      "sellerName": "Puzzle Planet",
+      "sellerEmail": "puzzleplanet@example.com",
+      "category": "cow",
+      "quantity": 8,
+      "details": "Challenge your child's problem-solving skills with this fun cow puzzle toy. It features colorful pieces that fit together to create a cute cow."
+    },
+    {
+      "name": "Cow Stacking Toy",
+      "image": "cow_stacking_toy.jpg",
+      "price": 9.99,
+      "rating": 4.8,
+      "sellerName": "Playtime Fun",
+      "sellerEmail": "playtimefun@example.com",
+      "category": "cow",
+      "quantity": 12,
+      "details": "Stack, balance, and play with this cow stacking toy. It helps develop fine motor skills and hand-eye coordination in a playful way."
+    },
+    {
+      "name": "Cow Plush Squeaky Toy",
+      "image": "cow_plush_squeaky_toy.jpg",
+      "price": 17.99,
+      "rating": 4.1,
+      "sellerName": "Squeaky Pet Toys",
+      "sellerEmail": "squeakypettoys@example.com",
+      "category": "cow",
+      "quantity": 3,
+      "details": "This adorable cow plush toy features a built-in squeaker, adding extra excitement and entertainment to playtime with your furry friend."
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Feather Teaser Wand",
+      "image": "feather_teaser_wand.jpg",
+      "price": 9.99,
+      "rating": 4.5,
+      "sellerName": "Purrfect Playthings",
+      "sellerEmail": "purrfectplaythings@example.com",
+      "category": "cat",
+      "quantity": 10,
+      "details": "Keep your cat entertained for hours with this feather teaser wand. It features colorful feathers that mimic the movement of prey, satisfying your cat's natural hunting instincts."
+    },
+    {
+      "name": "Catnip Plush Toy",
+      "image": "catnip_plush_toy.jpg",
+      "price": 7.99,
+      "rating": 4.2,
+      "sellerName": "Catnip Kingdom",
+      "sellerEmail": "catnipkingdom@example.com",
+      "category": "cat",
+      "quantity": 5,
+      "details": "This catnip plush toy is filled with high-quality catnip, enticing your cat to play and providing a source of stimulation and relaxation."
+    },
+    {
+      "name": "Tunnel Play Toy",
+      "image": "tunnel_play_toy.jpg",
+      "price": 14.99,
+      "rating": 4.0,
+      "sellerName": "Happy Cats",
+      "sellerEmail": "happycats@example.com",
+      "category": "cat",
+      "quantity": 8,
+      "details": "Give your cat a space to play and hide with this tunnel play toy. It's collapsible and features crinkle material for added excitement."
+    },
+    {
+      "name": "Interactive Treat Toy",
+      "image": "interactive_treat_toy.jpg",
+      "price": 12.99,
+      "rating": 4.8,
+      "sellerName": "Smart Cats",
+      "sellerEmail": "smartcats@example.com",
+      "category": "cat",
+      "quantity": 12,
+      "details": "Challenge your cat's problem-solving skills with this interactive treat toy. It requires your cat to solve puzzles to access the hidden treats."
+    },
+    {
+      "name": "Scratching Post",
+      "image": "scratching_post.jpg",
+      "price": 24.99,
+      "rating": 4.1,
+      "sellerName": "Scratchy Haven",
+      "sellerEmail": "scratchyhaven@example.com",
+      "category": "cat",
+      "quantity": 3,
+      "details": "Provide a dedicated space for your cat to scratch and stretch with this sturdy scratching post. It helps protect your furniture while keeping your cat active and healthy."
+    }
+  ]
+  

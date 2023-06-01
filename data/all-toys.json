@@ -1,0 +1,279 @@
+[
+    {
+      "name": "Classic Teddy Bear",
+      "image": "classic_teddy_bear.jpg",
+      "price": 19.99,
+      "rating": 4.5,
+      "sellerName": "Teddy's Toy Shop",
+      "sellerEmail": "teddystoyshop@example.com",
+      "category": "teddyBear",
+      "quantity": 10,
+      "details": "This timeless classic teddy bear is made with soft, huggable fabric and features a friendly face that will bring joy to children of all ages."
+    },
+    {
+      "name": "Giant Teddy Bear",
+      "image": "giant_teddy_bear.jpg",
+      "price": 59.99,
+      "rating": 4.8,
+      "sellerName": "Big Bear Emporium",
+      "sellerEmail": "bigbearemporium@example.com",
+      "category": "teddyBear",
+      "quantity": 5,
+      "details": "Make a big impression with this giant teddy bear measuring 3 feet tall. It's perfect for cuddling, decoration, and making a statement of love."
+    },
+    {
+      "name": "Musical Teddy Bear",
+      "image": "musical_teddy_bear.jpg",
+      "price": 24.99,
+      "rating": 4.2,
+      "sellerName": "Melody Toys",
+      "sellerEmail": "melodytoys@example.com",
+      "category": "teddyBear",
+      "quantity": 8,
+      "details": "This adorable musical teddy bear plays a soothing lullaby when you press its paw. It's the perfect companion for bedtime and naptime."
+    },
+    {
+      "name": "Valentine's Day Teddy Bear",
+      "image": "valentines_teddy_bear.jpg",
+      "price": 14.99,
+      "rating": 4.0,
+      "sellerName": "Love and Hugs",
+      "sellerEmail": "loveandhugs@example.com",
+      "category": "teddyBear",
+      "quantity": 12,
+      "details": "Express your love with this adorable Valentine's Day teddy bear. It comes with a heart-shaped pillow and a sweet message of affection."
+    },
+    {
+      "name": "Sports Teddy Bear",
+      "image": "sports_teddy_bear.jpg",
+      "price": 29.99,
+      "rating": 4.7,
+      "sellerName": "Playtime Sports",
+      "sellerEmail": "playtimesports@example.com",
+      "category": "teddyBear",
+      "quantity": 15,
+      "details": "This sporty teddy bear is dressed in a jersey and comes with a mini basketball. It's perfect for little athletes and sports enthusiasts."
+    },
+    {
+        "name": "Feather Teaser Wand",
+        "image": "feather_teaser_wand.jpg",
+        "price": 9.99,
+        "rating": 4.5,
+        "sellerName": "Purrfect Playthings",
+        "sellerEmail": "purrfectplaythings@example.com",
+        "category": "cat",
+        "quantity": 10,
+        "details": "Keep your cat entertained for hours with this feather teaser wand. It features colorful feathers that mimic the movement of prey, satisfying your cat's natural hunting instincts."
+      },
+      {
+        "name": "Catnip Plush Toy",
+        "image": "catnip_plush_toy.jpg",
+        "price": 7.99,
+        "rating": 4.2,
+        "sellerName": "Catnip Kingdom",
+        "sellerEmail": "catnipkingdom@example.com",
+        "category": "cat",
+        "quantity": 5,
+        "details": "This catnip plush toy is filled with high-quality catnip, enticing your cat to play and providing a source of stimulation and relaxation."
+      },
+      {
+        "name": "Tunnel Play Toy",
+        "image": "tunnel_play_toy.jpg",
+        "price": 14.99,
+        "rating": 4.0,
+        "sellerName": "Happy Cats",
+        "sellerEmail": "happycats@example.com",
+        "category": "cat",
+        "quantity": 8,
+        "details": "Give your cat a space to play and hide with this tunnel play toy. It's collapsible and features crinkle material for added excitement."
+      },
+      {
+        "name": "Interactive Treat Toy",
+        "image": "interactive_treat_toy.jpg",
+        "price": 12.99,
+        "rating": 4.8,
+        "sellerName": "Smart Cats",
+        "sellerEmail": "smartcats@example.com",
+        "category": "cat",
+        "quantity": 12,
+        "details": "Challenge your cat's problem-solving skills with this interactive treat toy. It requires your cat to solve puzzles to access the hidden treats."
+      },
+      {
+        "name": "Scratching Post",
+        "image": "scratching_post.jpg",
+        "price": 24.99,
+        "rating": 4.1,
+        "sellerName": "Scratchy Haven",
+        "sellerEmail": "scratchyhaven@example.com",
+        "category": "cat",
+        "quantity": 3,
+        "details": "Provide a dedicated space for your cat to scratch and stretch with this sturdy scratching post. It helps protect your furniture while keeping your cat active and healthy."
+      },
+      {
+        "name": "Plush Cow Toy",
+        "image": "plush_cow_toy.jpg",
+        "price": 12.99,
+        "rating": 4.5,
+        "sellerName": "Farm Friends",
+        "sellerEmail": "farmfriends@example.com",
+        "category": "cow",
+        "quantity": 10,
+        "details": "This adorable plush cow toy is made with soft, huggable materials, perfect for cuddling and imaginative playtime on the farm."
+      },
+      {
+        "name": "Mooing Cow Toy",
+        "image": "mooing_cow_toy.jpg",
+        "price": 19.99,
+        "rating": 4.2,
+        "sellerName": "Moo Moo Toys",
+        "sellerEmail": "moomootoys@example.com",
+        "category": "cow",
+        "quantity": 5,
+        "details": "Squeeze this interactive cow toy to hear it moo! It's a delightful addition to your child's toy collection."
+      },
+      {
+        "name": "Cow Puzzle Toy",
+        "image": "cow_puzzle_toy.jpg",
+        "price": 14.99,
+        "rating": 4.0,
+        "sellerName": "Puzzle Planet",
+        "sellerEmail": "puzzleplanet@example.com",
+        "category": "cow",
+        "quantity": 8,
+        "details": "Challenge your child's problem-solving skills with this fun cow puzzle toy. It features colorful pieces that fit together to create a cute cow."
+      },
+      {
+        "name": "Cow Stacking Toy",
+        "image": "cow_stacking_toy.jpg",
+        "price": 9.99,
+        "rating": 4.8,
+        "sellerName": "Playtime Fun",
+        "sellerEmail": "playtimefun@example.com",
+        "category": "cow",
+        "quantity": 12,
+        "details": "Stack, balance, and play with this cow stacking toy. It helps develop fine motor skills and hand-eye coordination in a playful way."
+      },
+      {
+        "name": "Cow Plush Squeaky Toy",
+        "image": "cow_plush_squeaky_toy.jpg",
+        "price": 17.99,
+        "rating": 4.1,
+        "sellerName": "Squeaky Pet Toys",
+        "sellerEmail": "squeakypettoys@example.com",
+        "category": "cow",
+        "quantity": 3,
+        "details": "This adorable cow plush toy features a built-in squeaker, adding extra excitement and entertainment to playtime with your furry friend."
+      },
+      {
+        "name": "T-Rex Dinosaur Toy",
+        "image": "t_rex_dinosaur_toy.jpg",
+        "price": 19.99,
+        "rating": 4.5,
+        "sellerName": "Dino World",
+        "sellerEmail": "dinoworld@example.com",
+        "category": "dinosaur",
+        "quantity": 10,
+        "details": "Bring the prehistoric world to life with this T-Rex dinosaur toy. It features realistic detailing and movable parts for interactive play."
+      },
+      {
+        "name": "Stegosaurus Plush Toy",
+        "image": "stegosaurus_plush_toy.jpg",
+        "price": 14.99,
+        "rating": 4.2,
+        "sellerName": "Cuddly Creatures",
+        "sellerEmail": "cuddlycreatures@example.com",
+        "category": "dinosaur",
+        "quantity": 5,
+        "details": "Cuddle up with this soft and huggable Stegosaurus plush toy. It's perfect for dino-loving kids of all ages."
+      },
+      {
+        "name": "Dinosaur Excavation Kit",
+        "image": "dinosaur_excavation_kit.jpg",
+        "price": 12.99,
+        "rating": 4.0,
+        "sellerName": "Dino Discoveries",
+        "sellerEmail": "dinodiscoveries@example.com",
+        "category": "dinosaur",
+        "quantity": 8,
+        "details": "Embark on a paleontological adventure with this dinosaur excavation kit. Dig, discover, and learn about ancient fossils and dinosaurs."
+      },
+      {
+        "name": "Dino Playset",
+        "image": "dino_playset.jpg",
+        "price": 24.99,
+        "rating": 4.8,
+        "sellerName": "Adventure Time Toys",
+        "sellerEmail": "adventuretimetoys@example.com",
+        "category": "dinosaur",
+        "quantity": 12,
+        "details": "Create your own Jurassic world with this dino playset. It includes multiple dinosaur figures, scenery, and accessories for imaginative play."
+      },
+      {
+        "name": "Triceratops Puzzle Toy",
+        "image": "triceratops_puzzle_toy.jpg",
+        "price": 9.99,
+        "rating": 4.1,
+        "sellerName": "Puzzle Planet",
+        "sellerEmail": "puzzleplanet@example.com",
+        "category": "dinosaur",
+        "quantity": 3,
+        "details": "Challenge your child's problem-solving skills with this triceratops puzzle toy. It features colorful pieces that fit together to create a dinosaur."
+      },
+      {
+        "name": "Plush Dog Toy",
+        "image": "plush_dog_toy.jpg",
+        "price": 12.99,
+        "rating": 4.5,
+        "sellerName": "Pawsome Pets",
+        "sellerEmail": "pawsomepets@example.com",
+        "category": "dog",
+        "quantity": 10,
+        "details": "This adorable plush dog toy is made with soft, durable materials, perfect for hours of fun and cuddles with your furry friend."
+      },
+      {
+        "name": "Interactive Dog Toy",
+        "image": "interactive_dog_toy.jpg",
+        "price": 19.99,
+        "rating": 4.2,
+        "sellerName": "Smart Paws",
+        "sellerEmail": "smartpaws@example.com",
+        "category": "dog",
+        "quantity": 5,
+        "details": "Keep your dog entertained with this interactive toy that engages their senses and promotes mental stimulation and physical activity."
+      },
+      {
+        "name": "Tough Chew Toy",
+        "image": "tough_chew_toy.jpg",
+        "price": 14.99,
+        "rating": 4.0,
+        "sellerName": "Durable Dogs",
+        "sellerEmail": "durabledogs@example.com",
+        "category": "dog",
+        "quantity": 8,
+        "details": "Designed for strong chewers, this tough dog toy is made with durable materials that withstand aggressive chewing and promote dental health."
+      },
+      {
+        "name": "Squeaky Dog Toy",
+        "image": "squeaky_dog_toy.jpg",
+        "price": 9.99,
+        "rating": 4.8,
+        "sellerName": "Happy Tails",
+        "sellerEmail": "happytails@example.com",
+        "category": "dog",
+        "quantity": 12,
+        "details": "This squeaky dog toy provides endless entertainment for your pet, with an enticing sound that keeps them engaged and excited."
+      },
+      {
+        "name": "Dog Rope Toy",
+        "image": "dog_rope_toy.jpg",
+        "price": 17.99,
+        "rating": 4.1,
+        "sellerName": "Active Pups",
+        "sellerEmail": "activepups@example.com",
+        "category": "dog",
+        "quantity": 3,
+        "details": "This dog rope toy is perfect for interactive play and helps keep your dog's teeth clean and their jaws strong."
+      }
+
+  ]
+  
